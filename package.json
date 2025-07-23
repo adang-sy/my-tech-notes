@@ -1,0 +1,22 @@
+{
+  "name": "my-tech-notes",
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "astro": "^4.0.0",
+    "@astrojs/mdx": "^3.0.0",
+    "@astrojs/rss": "^4.0.0",
+    "@astrojs/sitemap": "^4.0.0",
+    "@astrojs/tailwind": "^4.0.0",
+    "giscus": "^2.3.1"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.0",
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.4.0"
+  }
+}
